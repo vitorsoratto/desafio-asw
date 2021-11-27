@@ -1,0 +1,4 @@
+git clone https://github.com/vitorsoratto/desafio-asw.git
+git add .
+git commit -m "Comandos utilizados para o git no terminal"
+git push origin master
